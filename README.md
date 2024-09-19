@@ -11,11 +11,13 @@ The aim of the project is to create a smartwatch that;
 - is open-source.
 
 ## BOM (Bill Of the Materials):
-| Name | Purpose |
-|------|---------|
-|ESP-12|WI-FI and MC|
-|128*64 OLED|Screen|
-|DS1302|RTC IC|
-|MH-CD42|Battery Controller|
-|AMS1117 3.3v|5v-3.3v Converter|
-|6x Buttons||
+| Name | Purpose ||Is Optional?|
+|------|---------|-------------|
+|ESP-12|WI-FI and MC|❌
+|128*64 OLED|Screen|❌
+|DS1302|RTC IC|🟡
+|MH-CD42|Battery Controller|❌
+|AMS1117 3.3v|5v-3.3v Converter|❌
+|6x Buttons|Controlling the watch|🟡
+|400mA Battery|Storing Power|❌
+|Pogo Connectors|Charging&Flashing|✔️
