@@ -11,7 +11,7 @@ The aim of the project is to create a smartwatch that;
 - is open-source.
 
 ## BOM (Bill Of the Materials):
-| Name | Purpose ||Is Optional?|
+| Name | Purpose |Is Optional?|
 |------|---------|-------------|
 |ESP-12|WI-FI and MC|❌|
 |128*64 OLED|Screen|❌|
