@@ -1,0 +1,15 @@
+{
+  "name": "DS1302",
+  "author": "Ahmet Hasan AKKOCA",
+  "pins": [
+    "VCC",
+    "GND",
+    "CLK",
+    "DAT",
+    "RST",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
