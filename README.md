@@ -15,12 +15,12 @@ The aim of the project is to create a smartwatch that;
 |------|---------|-------------|
 |ESP-12|WI-FI and MC|✔️|
 |128*64 OLED|Screen|✔️|
-|DS1302|RTC IC|🟡|
+|DS1302|RTC IC|🟡[^1]|
 |MH-CD42|Battery Controller|✔️|
 |AMS1117 3.3v|5v-3.3v Converter|✔️|
-|6x Buttons|Controlling the watch|🟡|
+|6x Buttons|Controlling the watch|🟡[^2]|
 |400mA Battery|Storing Power|✔️|
 |Pogo Connectors|Charging&Flashing|❌|
 ### Notes:
-- You can choose to not use a RTC but deep sleep function cannot be used.
-- You can use fewer/more buttons if you want.
+[^1]: You can choose to not use a RTC but deep sleep function cannot be used.
+[^2]: You can use fewer/more buttons if you want.
