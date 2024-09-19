@@ -21,6 +21,5 @@ The aim of the project is to create a smartwatch that;
 |6x Buttons|Controlling the watch|🟡[^2]|
 |400mA Battery|Storing Power|✔️|
 |Pogo Connectors|Charging&Flashing|❌|
-### Notes:
 [^1]: You can choose to not use a RTC but deep sleep function cannot be used.
 [^2]: You can use fewer/more buttons if you want.
