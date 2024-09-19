@@ -1,6 +1,13 @@
 # ESP-12 SmartWatch Project
 A smartwatch project using ESP-12 module.
 
+### Tasks:
+- [x] Create github page
+- [ ] Complete the menu UI code
+- [ ] Take feature requests
+- [ ] Complete the hardware setup
+- [ ] Complete BOM with links
+
 ~~**Wokwi project link:** https://wokwi.com/projects/409083785783853057~~ **NOT COMPLETED**
 ## Aim of this project:
 The aim of the project is to create a smartwatch that;
