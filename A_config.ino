@@ -23,7 +23,8 @@
 //----------Define boot settings---------//
 #define QUICK_WAKE  //If quick wake is defined, it will use the values below to speed the wake up
 
-#ifdef QUICK_WAKE  //checks if it is defined
-#define language "en"  //make sure the language file exists!!!
+#ifdef QUICK_WAKE  //Checks if it is defined
+#define language 0  //Copy the contents of the preferred language into language.ino file
 #define brightness 255  //Set the value between 0-255
 #define style 0  //default style
+#define hour24 true  //Checks 12/24 hour style; if true, uses 24 hours.

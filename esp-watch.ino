@@ -2,7 +2,7 @@
 #include "FastLED.h"
 #include "Time.h"
 #include "Ds1302.h"
-#include "ArduinoJson.h"
+
 //---------Define the chip type----------//
 //NOTE: Everything in ESP32 may not work (like sleeping),
 //it is only here for the OLED pins in the simulation
