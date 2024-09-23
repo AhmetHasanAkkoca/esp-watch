@@ -1,8 +1,7 @@
 # ESP-12 SmartWatch Project
 A smartwatch project using ESP-12 module.
 
-# THIS IS BETA AND NOT GUARATEED TO WORK, PLEASE USE MAIN INSTEAD
-### Tasks:
+# THIS IS BETA AND NOT GUARATEED TO WORK!!!
 - [x] Create github page
 - [ ] Complete the menu UI code
 - [ ] Take feature requests
