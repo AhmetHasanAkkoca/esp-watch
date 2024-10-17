@@ -2,6 +2,7 @@
 A smartwatch project using ESP-12 module.
 
 # THIS IS BETA AND NOT GUARATEED TO WORK!!!
+# WILL NOT BE CONTINUED UNTIL 01/09/2025
 - [x] Create github page
 - [ ] Complete the menu UI code
 - [ ] Take feature requests
